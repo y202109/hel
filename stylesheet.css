@@ -275,7 +275,7 @@ aside p{
 
 #contact{
   background-image: url(images/contact_top.jpg);
-  min-height: 100vh;
+  min-height: 700px;
 } 
 
 form div{
@@ -487,13 +487,20 @@ footer p{
     .post-cat{
       margin-left: 80px;
     }
-　
+
     /* MENU */
-    #menu .page-title{
-      margin-top: 40px;
+    .menu-content{
+     padding-top: 20px;
+    }
+    #menu{
+      height: 400px;
     }
 
     /* CONTACT */
+    #contact{
+      min-height: 600px;
+    }
+    
   #contact .page-title{
     margin-top: 40px;
   }
