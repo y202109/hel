@@ -420,6 +420,7 @@ footer p{
   }
 
   /* HOME --------------------*/
+  
   .home-content{
     padding-top: 30%;
   }
@@ -429,7 +430,7 @@ footer p{
   }
 
   .home-content p{
-    font-size: 0.8rem;
+    font-size: 0.7rem;
     margin-bottom:10px;
   }
 
@@ -439,6 +440,7 @@ footer p{
   }
 
   .button{
+    font-size: 1px;
     padding: 10px 20px;
   }
 
