@@ -293,12 +293,13 @@ textarea{
   border: 1px #fff solid;
   border-radius: 5px;
   padding: 10px;
-  font-size: 1rem;
+  font-size: 100%;
 }
 input[type="text"],
 input[type="email"]{
   width: 100%;
   max-width: 240px;
+  font-size: 100%;
 }
 textarea{
   width:100%;
